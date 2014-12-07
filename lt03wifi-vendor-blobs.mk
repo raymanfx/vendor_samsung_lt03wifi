@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt03wifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/lt03wifi/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/lt03wifi/proprietary/bin/drmserver.samsung:system/bin/drmserver.samsung \
-    vendor/samsung/lt03wifi/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
+    vendor/samsung/lt03wifi/proprietary/vendor/lib/libstagefright_hdcp.so:system/vendor/lib/libstagefright_hdcp.so \
     vendor/samsung/lt03wifi/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/lt03wifi/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/samsung/lt03wifi/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
